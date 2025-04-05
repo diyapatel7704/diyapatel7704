@@ -1,7 +1,7 @@
 Welcome to my GitHub! Here, you'll find all the projects, tools, and real-world applications I've worked on during my Data Science journey. I don’t just know theory – I’ve got hands-on experience too!
 
 👩‍💻 About Me
-Hi, I'm Diya Patel, a final-year Information Technology student with a strong passion for Data Science. Alongside my college studies, I’m currently doing an internship where I'm sharpening my skills across SQL, NoSQL, Excel, Power BI, Tableau, and much more.
+Hi, I'm Diya Patel, a pre final-year Information Technology student with a strong passion for Data Science. Alongside my college studies, I’m currently doing an internship where I'm sharpening my skills across SQL, NoSQL, Excel, Power BI, Tableau, and much more.
 
 📊 Data Science Skill Set
 
